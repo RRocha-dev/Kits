@@ -1,0 +1,29 @@
+# Seta prefix e suffix padrão
+consoleprefix: '[Kits]'
+prefix: '&c&l[Kits]'
+suffix: '&7'
+
+# Joga mensagens no log
+debug: false
+
+# Configurações dos kits
+
+kits:
+  comida:
+    descricao: 'Kit de comida :3'
+    miniatura: 'pão'
+    items:
+      - 'bread 64'
+  basico:
+    descricao: 'Um kit para início da sua jornada =)'
+    miniatura: 'diamond_chestplate'
+    items:
+      - 'diamond_helmet 1'
+      - 'diamond_chestplate 1'
+      - 'diamond_leggings 1'
+      - 'diamond_boots 1'
+      - 'diamond_sword 1'
+      - 'diamond_pickaxe 1'
+      - 'diamond_axe 1'
+      - 'diamond_shovel 1'
+      - 'diamond_hoe 1'

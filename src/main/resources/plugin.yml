@@ -1,0 +1,13 @@
+name: Kits
+version: 1.0
+main: br.com.rederock.Kits
+api-version: 1.19
+
+commands:
+  kits:
+    usage: /<comando>
+    description: Exibe todos os kits
+
+  kit:
+    usage: /<comando> [kit-nome]
+    description: Use para pegar um kit expecífico!
